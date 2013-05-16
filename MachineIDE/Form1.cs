@@ -34,11 +34,11 @@ namespace WindowsFormsApplication1
             {
                 if (button.Equals(toolStripButton1))
                 {
-                    MessageBox.Show("Добавлен Элемент 1");
+                    MessageBox.Show("Добавлен Элемент1");
                 }
                 else if (button.Equals(toolStripButton2))
                 {
-                    MessageBox.Show("Добавлен Элемент 2");
+                    MessageBox.Show("Добавлен Элемент2");
                 }
             }
         }
